@@ -22,7 +22,7 @@ public class Application {
 		SpringApplication springApplication = new SpringApplication(Application.class);
 		/** 设置Banner横幅的模式为关闭 */
 		springApplication.setBannerMode(Mode.OFF);
-		/** 运行 */
+		/** 运行aa */
 		springApplication.run(args);
 	}
 }
